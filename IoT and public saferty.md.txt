@@ -1,0 +1,4 @@
+IoT in Public safety
+IoT prevents building and structural collapse by using real-time data from sensors, cameras or other connected device(s) attached to buildings or bridges and send alerts to the officials if a crack begins.
+IoT also helps in locating people who are lost or in danger; especially for people who go for hiking, the person must have IoT enabled trackers and panic buttons running on a network which give alert to the police or fire or emergency medical personnel to save lives.
+
